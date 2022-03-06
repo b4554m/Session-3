@@ -1,0 +1,59 @@
+body {
+    background-image: url(../Assignment/WhatsApp\ Image\ 2020-11-01\ at\ 11.50.23\ AM.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form {
+    margin: 200px auto;
+    width: 350px;
+    height: 450px;
+    color: white;
+    background-color: black;
+}
+
+button {
+    padding: 10px 100px;
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    border: 0;
+}
+
+#username {
+    padding: 10px 40px;
+}
+
+#password {
+    padding: 10px 40px;
+}
+
+.username {
+    padding-bottom: 20px;
+    margin-left: 65px;
+}
+
+.password {
+    padding-bottom: 20px;
+    margin-left: 65px;
+}
+
+.btn {
+    padding-bottom: 20px;
+    margin-left: 60px;
+}
+
+h1 {
+    padding: 55px 0px 0px 0px;
+    text-align: center;
+}
+
+a {
+    margin-left: 50px;
+    text-decoration: none;
+    color: rgb(158, 157, 157);
+}
+
+.ancher {
+    margin-top: 7px;
+}

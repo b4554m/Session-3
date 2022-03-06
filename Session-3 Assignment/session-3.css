@@ -1,0 +1,25 @@
+table {
+    font-size: 19px;
+    border-width: 6px;
+    border-color: rgb(69, 177, 69);
+    border-style: solid;
+    box-sizing: border-box;
+    margin: 0 auto;
+    background-color: snow;
+}
+
+tr {
+    border: 1px solid rgb(69, 177, 69);
+}
+
+td {
+    border: 1px solid rgb(69, 177, 69);
+}
+
+.submit {
+    margin-left: 215px;
+}
+
+body {
+    background-color: rgb(239, 233, 245);
+}
